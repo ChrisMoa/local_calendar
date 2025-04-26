@@ -1,6 +1,6 @@
 {
-    "name": "flutter_base",
-    "short_name": "flutter_base",
+    "name": "local_calendar",
+    "short_name": "local_calendar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
